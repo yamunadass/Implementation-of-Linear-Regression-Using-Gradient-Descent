@@ -55,8 +55,8 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![Alt text](1.png)
-![Alt text](<Screenshot 2024-03-08 181804.png>)
+![image](https://github.com/user-attachments/assets/b70e33fa-6a1c-4dc6-a58e-385bb03657a0)
+![image](https://github.com/user-attachments/assets/5da9b1ca-bf44-4dfb-a038-cd18b09b54fc)
 
 
 
